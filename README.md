@@ -104,7 +104,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 ## 🙏 Acknowledgements
 
-OpenHands is built by a large number of contributors, and every contribution is greatly appreciated! We also build upon other open source projects, and we are deeply thankful for their work.
+OpenHand22 is built by a large number of contributors, and every contribution is greatly appreciated! We also build upon other open source projects, and we are deeply thankful for their work.
 
 For a list of open source projects and licenses used in OpenHands, please see our [CREDITS.md](./CREDITS.md) file.
 
